@@ -1,0 +1,40 @@
+{
+  "name": "pro_react_router_examples",
+  "version": "1.0.0",
+  "description": "React Router Examples (https://reacttraining.com/react-router/web/guides/quick-start)",
+  "main": "index.js",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react-router-dom": "latest",
+    "react-transition-group": "^2.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashrafhafiz/react_router_examples.git"
+  },
+  "keywords": [
+    "react",
+    "router",
+    "examples"
+  ],
+  "author": "Ashraf Hafiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashrafhafiz/react_router_examples/issues"
+  },
+  "homepage": "https://github.com/ashrafhafiz/react_router_examples#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
